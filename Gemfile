@@ -51,4 +51,4 @@ group :test do
   gem "rspec-json_expectations", "~> 2.2"
 end
 
-ruby File.read(".ruby-version").strip
+# ruby File.read(".ruby-version").strip
